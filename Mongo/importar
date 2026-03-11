@@ -1,0 +1,16 @@
+#!/bin/bash
+
+mongoimport -d aluno -u aluno -p aluno -c editora editora.json
+mongoimport -d aluno -u aluno -p aluno -c livro livro.json
+mongoimport -d aluno -u aluno -p aluno -c acervo acervo.json
+mongoimport -d aluno -u aluno -p aluno -c alunos alunos.json
+mongoimport -d aluno -u aluno -p aluno -c produtos produtos.json
+mongoimport -d aluno -u aluno -p aluno -c employees employees.json
+mongoimport -d aluno -u aluno -p aluno -c megasena megasena.json
+mongoimport -d aluno -u aluno -p aluno -c airports airports.json
+mongoimport -d aluno -u aluno -p aluno -c travelers travelers.json
+mongoimport -d aluno -u aluno -p aluno -c notas notas.json
+mongoimport -d aluno -u aluno -p aluno -c places places.json
+mongoimport -d aluno -u aluno -p aluno -c articles articles.json
+mongoimport -d aluno -u aluno -p aluno -c vendas vendas.json
+mongoimport -d aluno -u aluno -p aluno -c catalogo catalogo.json

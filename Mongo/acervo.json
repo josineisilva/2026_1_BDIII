@@ -1,0 +1,20 @@
+{"_id": "novatec", "editora": "Novatec Editora Ltda",
+  "sede": {"pais": "Brasil", "estado": "SP", "cidade": "Sao Paulo"},
+  "livros": [
+          {"titulo": "Introducao ao MongoDB", "isbn": "8575224220", "ano": "2015", "edicao": "1"},
+          {"titulo": "Arduino Basico", "isbn": "8575224042", "ano": "2015", "edicao": "2"}
+          ]
+}
+{"_id": "oreilly", "editora": "O'Reilly Media",
+  "sede": {"pais": "Estados Unidos", "estado": "CA", "cidade": "Sebastopol"},
+  "livros": [
+          {"titulo": "Programming With QT", "isbn": "9781449390938", "ano": "2010", "edicao": "2"},
+          {"titulo": "SQL Tuning", "isbn": "9780596552367", "ano": "2009", "edicao": "1"} 
+          ]
+}
+{"_id": "cm", "editora": "Editora Ciencia Moderna",
+  "sede": {"pais": "Brasil", "estado": "RJ", "cidade": "Rio de Janeiro"},
+  "livros": [
+          {"titulo": "Programacao em Linguagem C", "isbn": "8573939494", "ano": "2010", "edicao": "1"}
+          ]
+}

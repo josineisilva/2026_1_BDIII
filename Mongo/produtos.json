@@ -1,0 +1,6 @@
+{"_id": 1, "item": "caderno", "quantidade": 20}
+{"_id": 2, "item": "cartao", "quantidade": 15, "minimo": 5}
+{"_id": 3, "item": "envelope", "quantidade": 20, "minimo": 10}
+{"_id": 4, "item": "selos" , "quantidade": 30, "minimo": null}
+{"_id": 5, "item": "lapis", "quantidade": 50, "minimo": 30}
+{"_id": 6, "item": "borracha", "quantidade": 25, "minimo": 10}

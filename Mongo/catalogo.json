@@ -1,0 +1,46 @@
+{ "_id": 1, "item": "TV", "tipo": "Eletronicos", "preco": 2500.00, "taxas": 520.50,
+  "desconto": 10.0, "dimensoes": [ { "k": "L", "v": 1116.8},
+                                   { "k": "A", "v": 664.2},
+                                   { "k": "P", "v": 59.9},
+                                   { "k": "um", "v": "mm" } ] }
+{ "_id": 2, "item": "DVD Player", "tipo": "Eletronicos", "preco": 250.00, "taxas": 30.00,
+  "desconto": 10.0, "dimensoes": [ [ "A", 16.0 ],
+                                   [ "L", 63.0 ],
+                                   [ "P", 46.0 ],
+                                   [ "um", "cm" ] ] }
+{ "_id": 3, "item": "SoundBar", "tipo": "Eletronicos", "preco": 1080.00, "taxas": 120.00,
+  "dimensoes": [ [ "L", 85.5 ],
+                 [ "A", 14.5 ],
+                 [ "P", 12.5 ],
+                 [ "um", "cm" ] ] }
+{ "_id": 4, "item": "Guarda Roupa", "tipo": "Moveis", "preco": 2300.00, "taxas": 300.00,
+  "desconto": 15.0, "dimensoes": [ [ "L", 274.0 ],
+                                   [ "A", 235.0 ],
+                                   [ "L", 2.0 ],
+                                   [ "P", 55.5 ],
+                                   [ "um", "cm" ] ] }
+{ "_id": 5, "item": "Sofa", "tipo": "Moveis", "preco": 1800.00, "taxas": 210.00,
+  "desconto": 10.0, "dimensoes": [ [ "A", 0.98 ],
+                                   [ "L", 2.10 ],
+                                   [ "P", 1.18 ],
+                                   [ "um", "m" ] ] }
+{ "_id": 6, "item": "Mesa", "tipo": "Moveis", "preco": 1200.00, "taxas": 140.00,
+  "desconto": 5.0, "dimensoes": [ [ "L", 80.0 ],
+                                  [ "A", 76.5 ],
+                                  [ "P", 140.0 ],
+                                  [ "um", "cm" ] ] }
+{ "_id": 7, "item": "Impressora", "tipo": "Informatica", "preco": 520.00, "taxas": 60.00,
+  "desconto": 7.5, "dimensoes": [ [ "L", 42.5 ],
+                                  [ "A", 15.4 ],
+                                  [ "P", 30.4 ],
+                                  [ "um", "cm" ] ] }
+{ "_id": 8, "item": "Notebook", "tipo": "Informatica", "preco": 2900.00, "taxas": 320.00,
+  "dimensoes": [ [ "A", 1.99 ],
+                 [ "L", 38.0 ],
+                 [ "P", 25.8 ],
+                 [ "um", "cm" ] ] }
+{ "_id": 9, "item": "Monitor", "tipo": "Informatica", "preco": 570.00, "taxas": 65.00,
+  "desconto": 8.0, "dimensoes": [ [ "L", 507.0 ],
+                                  [ "A", 390.0 ],
+                                  [ "P", 20.0 ],
+                                  [ "um", "mm" ] ] }

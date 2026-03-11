@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mongosh -u aluno -p aluno --authenticationDatabase aluno aluno limpar.js

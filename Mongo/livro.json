@@ -1,0 +1,5 @@
+{"_id": 1, "titulo": "Introducao ao MongoDB", "editora_id": "novatec", "isbn": "8575224220", "ano": "2015", "edicao": "1"}
+{"_id": 2, "titulo": "Arduino Basico", "editora_id": "novatec", "isbn": "8575224042", "ano": "2015", "edicao": "2"}
+{"_id": 3, "titulo": "Programming With QT", "editora_id": "oreilly", "isbn": "9781449390938", "ano": "2010", "edicao": "2"}
+{"_id": 4, "titulo": "SQL Tuning", "editora_id": "oreilly", "isbn": "9780596552367", "ano": "2009", "edicao": "1"}
+{"_id": 5, "titulo": "Programacao em Linguagem C", "editora_id": "cm", "isbn": "8573939494", "ano": "2010", "edicao": "1"}

@@ -1,0 +1,10 @@
+{"_id": 1, "nome": "Joao", "disciplina": "ciencias", "nota": 68}
+{"_id": 2, "nome": "Joao", "disciplina": "matematica", "nota": 98}
+{"_id": 3, "nome": "Joao", "disciplina": "portugues", "nota": 77}
+{"_id": 4, "nome": "Andre", "disciplina": "ciencias", "nota": 67}
+{"_id": 5, "nome": "Andre", "disciplina": "matematica", "nota": 87}
+{"_id": 6, "nome": "Andre", "disciplina": "portugues", "nota": 89}
+{"_id": 7, "nome": "Ana", "disciplina": "ciencias", "nota": 67}
+{"_id": 8, "nome": "Ana", "disciplina": "matematica", "nota": 78}
+{"_id": 9, "nome": "Ana", "disciplina": "portugues", "nota": 90}
+{"_id":10,"nome":"Paula","disciplina":"portugues","nota":85}

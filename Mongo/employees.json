@@ -1,0 +1,5 @@
+{"_id": 1, "name": "Eliot"}
+{"_id": 2, "name": "Ron", "reportsTo": "Eliot"}
+{"_id": 3, "name": "Andrew", "reportsTo": "Eliot"}
+{"_id": 4, "name": "Asya", "reportsTo": "Ron"}
+{"_id": 5, "name": "Dan", "reportsTo": "Andrew"}
